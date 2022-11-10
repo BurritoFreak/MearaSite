@@ -39,6 +39,13 @@ body {
   justify-content: center;
 }
 
+.cardbox {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  align-items: center;
+}
+
 #sponsor1 {
   content: var(--sponsor1);
 }
@@ -64,7 +71,7 @@ body {
   row-gap: 20%;
 }
 
-#section2 {
+.pic-n-text {
   display: flex;
   flex-direction: row;
   justify-content: space-evenly;
