@@ -11,10 +11,10 @@
 
 
     /* Section 2 */
-    --sponsor1: url(https://placekitten.com/100/100);
-    --sponsor2: url(https://placekitten.com/100/100);
-    --sponsor3: url(https://placekitten.com/100/100);
-    --sponsor4: url(https://placekitten.com/100/100);
+    --sponsor1: url("https://placekitten.com/100/100");
+    --sponsor2: url("https://placekitten.com/100/100");
+    --sponsor3: url("https://placekitten.com/100/100");
+    --sponsor4: url("https://placekitten.com/100/100");
 
 
     /* Section 2 */
