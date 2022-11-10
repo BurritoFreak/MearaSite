@@ -21,6 +21,33 @@ body {
   row-gap: 20%;
 }
 
+.sponsor {
+  width: 100px;
+  height: 100px;
+}
+
+.sponsor-cont {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+#sponsor1 {
+  content: var(--sponsor1);
+}
+
+#sponsor2 {
+  content: var(--sponsor2);
+}
+
+#sponsor3 {
+  content: var(--sponsor3);
+}
+
+#sponsor4 {
+  content: var(--sponsor4);
+}
+
 #section1 {
   background-image: var(--section1-bg-image);
 }
