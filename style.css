@@ -64,26 +64,14 @@ body {
   background-image: var(--section1-bg-image);
 }
 
-#s2-im1 {
-  content: var(--section2-pic-1);
-}
-
-#s2-im2 {
-  content: var(--section2-pic-2);
-}
-
-#s2-im3 {
-  content: var(--section2-pic-3);
-}
-
-#s2-im4 {
-  content: var(--section2-pic-4);
-}
-
-#section3 div div{
+#section2 div div{
   display: flex;
   flex-direction: column;
   gap: 20px;
+}
+
+#section3 {
+  background-color: aqua;
 }
 
 #section4 {
@@ -96,10 +84,6 @@ body {
 
 #section8 {
   background-image: var(--section6-bg-image);
-}
-
-#section10 {
-  background-color: aqua;
 }
 
 #button1 {
