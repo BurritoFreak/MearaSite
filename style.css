@@ -34,6 +34,18 @@ body {
   background-color: aquamarine;
 }
 
+.inner-box {
+  height: 95%;
+  width: 95%;
+  background-color: aquamarine;
+  margin: 5%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  opacity: .5;
+  border: 5%;
+}
+
 #sponsor1 {
   content: var(--sponsor1);
 }
@@ -86,6 +98,10 @@ body {
 
 #section8 {
   background-image: var(--section6-bg-image);
+}
+
+#section10 {
+  background-color: aqua;
 }
 
 #button1 {
