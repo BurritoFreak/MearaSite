@@ -31,6 +31,7 @@ body {
   align-items: center;
   justify-content: space-evenly;
   gap: 10px;
+  background-color: aquamarine;
 }
 
 #sponsor1 {
@@ -72,6 +73,7 @@ body {
 #section3 div div{
   display: flex;
   flex-direction: column;
+  gap: 20px;
 }
 
 #section4 {
