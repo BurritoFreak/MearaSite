@@ -69,6 +69,11 @@ body {
   content: var(--section2-pic-4);
 }
 
+#section3 div div{
+  display: flex;
+  flex-direction: column;
+}
+
 #section4 {
   background-image: var(--section4-bg-image);
 }
