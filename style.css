@@ -8,7 +8,7 @@
 
 body {
   font-size: 14px;
-  background-image: url("https://media.giphy.com/media/lMyEespPQdFoWuK4oP/giphy.gif");
+  background-image: var(--webpage-bg);
 }
 
 #section1 {
