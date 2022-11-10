@@ -18,6 +18,7 @@ body {
   height: var(--section-height);
   align-items: center;
   justify-content: center;
+  row-gap: 20%;
 }
 
 #section1 {
