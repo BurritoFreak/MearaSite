@@ -11,6 +11,10 @@ body {
   background-image: var(--webpage-bg);
 }
 
+section {
+  height: var(--section-height);
+}
+
 #section1 {
   background-image: var(--section1-bg-image);
 }

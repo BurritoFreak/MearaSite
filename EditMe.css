@@ -1,8 +1,9 @@
 /* I figured out how to add comments */
 :root {
-    
+
     /* Entire Page Format */
-    --webpage-bg: url("https://media.giphy.com/media/lMyEespPQdFoWuK4oP/giphy.gif");
+    /*--webpage-bg: url("https://media.giphy.com/media/lMyEespPQdFoWuK4oP/giphy.gif");*/
+    --section-height: 1000px;
 
 
     /* Section 1 */
