@@ -13,12 +13,7 @@ body {
 
 
 .section {
-  display: flex;
-  flex-direction: column;
   height: var(--section-height);
-  align-items: center;
-  justify-content: center;
-  row-gap: 20%;
 }
 
 .sponsor {
@@ -62,12 +57,26 @@ body {
 
 #section1 {
   background-image: var(--section1-bg-image);
-}
-
-#section2 div div{
   display: flex;
   flex-direction: column;
-  gap: 20px;
+  align-items: center;
+  justify-content: center;
+  row-gap: 20%;
+}
+
+#section2 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  align-items: center;
+}
+
+.text-sect {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  align-content: stretch;
+  justify-content: space-evenly;
 }
 
 #section3 {
