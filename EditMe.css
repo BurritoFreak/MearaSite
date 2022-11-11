@@ -71,7 +71,7 @@
 
 
     /* Section 6 */
-    --s6-bg-image: url("https://gifimage.net/wp-content/uploads/2017/01/Doge-GIF-Image-Download-11.gif");
+    --s6-bg-image: ;
     --s6-bg-color: #819898;
     --s6font: var(--font1);
     --card-button-bg-color: gray;
