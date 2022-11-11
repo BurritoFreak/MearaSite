@@ -21,7 +21,7 @@
 
     /* Sponser Section */
     --sponsor-bg-image: ;
-    --sponsor-bg-color: rgb(40, 126, 100);
+    --sponsor-bg-color: #E6C8B0;
     --sponsor-text-color: black;
     --sponsor-font: var(--font1);
     --sponsor1: url("https://placekitten.com/100/100");
@@ -32,7 +32,7 @@
 
     /* Section 2 */
     --s2-bg-image: ;
-    --s2-bg-color:teal;
+    --s2-bg-color:#798A7D;
     --s2-text-color: black;
     --s2font: var(--font1);
     --s2button-bg-color: gray;
@@ -42,7 +42,7 @@
 
     /* Section 3 */
     --s3-bg-image: ;
-    --s3-bg-color:#00ffff;
+    --s3-bg-color:#819898;
     --s3-quote-box-color: rgba(127, 255, 212, 0.5);
     --s3-quote-box-size: 95%;
     --s3-quote-box-margin: 5%;
@@ -52,7 +52,7 @@
 
     /* Section 4 */
     --s4-bg-image: url("https://www.pbh2.com/wordpress/wp-content/uploads/2013/11/doge-trampoline-gif.gif");
-    --s4-bg-color:teal;
+    --s4-bg-color:#F9F1DF;
     --s4-text-color: black;
     --s4font: var(--font1);
     --s4button-bg-color: gray;
@@ -62,7 +62,7 @@
 
     /* Section 5 */
     --s5-bg-image: ;
-    --s5-bg-color:pink;
+    --s5-bg-color:#E6C8B0;
     --s5-text-color: black;
     --s5font: var(--font1);
     --s5button-bg-color: gray;
@@ -72,7 +72,7 @@
 
     /* Section 6 */
     --s6-bg-image: url("https://gifimage.net/wp-content/uploads/2017/01/Doge-GIF-Image-Download-11.gif");
-    --s6-bg-color: bisque;
+    --s6-bg-color: #819898;
     --s6font: var(--font1);
     --card-button-bg-color: gray;
     --card-button-text-color: black;
@@ -80,7 +80,7 @@
 
     /* Footer */
     --footer-bg-image: ;
-    --footer-bg-color: white;
+    --footer-bg-color: #796B5D;
     --footer-font: var(--font1);
     --footer-text-color: black;
 }
