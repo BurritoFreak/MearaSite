@@ -2,18 +2,18 @@
 :root {
 
     /* Entire Page Format */
-    --webpage-bg-color: rgba(121, 33, 172, 1);
+    --webpage-bg-color: #F9F1DF;
     --section-height: 1000px;
 
-    --font1:Arial;
-    --font2:Arial;
-    --font3:Arial;
+    --font1:Yeseva One;
+    --font2:Mont;
+    --font3:Cardo;
 
 
     /* Section 1 */
-    --s1-bg-image: url("https://www.coindesk.com/resizer/miRqXe96KARUX3LfcQc2B2f1VW8=/567x425/filters:quality(80):format(jpg)/cloudfront-us-east-1.images.arcpublishing.com/coindesk/B57EHRZLYBC4ZMCZKRNCRH54FE.jpg");
+    --s1-bg-image: url("https://www.canva.com/design/DAFRl-LolVo/gkTtYNybD5-D2BsqSMC3xg/view?utm_content=DAFRl-LolVo&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink#2");
     --s1-bg-color: aquamarine;
-    --s1text:blue;
+    --s1text:rgb(0, 0, 0);
     --s1font: var(--font1);
     --s1button-bg-color: gray;
     --s1button-text-color: black;
