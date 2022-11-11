@@ -46,6 +46,20 @@ body {
   align-items: center;
 }
 
+.foot-container {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-evenly;
+}
+
+.footer-panels {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
 #sponsor1 {
   content: var(--sponsor1);
 }
