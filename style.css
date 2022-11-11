@@ -26,20 +26,26 @@ body {
   align-items: center;
   justify-content: space-evenly;
   gap: 10px;
-  background-color: aquamarine;
+  background-color: var(--sponsor-bg-color);
+  color: var(--sponsor-text-color);
+  font: var(--sponsor-font);
 }
 
 .inner-box {
-  height: 95%;
-  width: 95%;
-  background-color: rgba(127, 255, 212, 0.5);
-  margin: 5%;
+  height: var(--s3-quote-box-size);
+  width: var(--s3-quote-box-size);
+  background-color: var(--s3-quote-box-color);
   display: flex;
   align-items: center;
   justify-content: center;
+  margin: var(--s3-quote-box-margin);
+  color: var(--s3-text-color);
+  font: var(--s3-font);
 }
 
 .cardbox {
+  width: 100%;
+  height: 100%;
   display: flex;
   flex-direction: row;
   justify-content: space-evenly;
@@ -77,12 +83,26 @@ body {
 }
 
 #section1 {
-  background-image: var(--section1-bg-image);
+  background-image: var(--s1-bg-image);
+  background-color: var(--s1-bg-color);
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
   row-gap: 20%;
+  color: var(--s1text);
+  font: var(--s1-font);
+}
+
+#section2 {
+  background-image: var(--s2-bg-image);
+  background-color: var(--s2-bg-color);
+  color: var(--s2-text-color);
+  font: var(--s2-font);
+}
+
+#s2pic{
+  content: var(--section2-pic)
 }
 
 .pic-n-text {
@@ -101,27 +121,57 @@ body {
 }
 
 #section3 {
-  background-color: aqua;
+  background-image: var(--s3-bg-image);
+  background-color: var(--s3-bg-color);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  align-content: center;
+  justify-content: center;
 }
 
 #section4 {
-  background-image: var(--section4-bg-image);
+  background-image: var(--s4-bg-image);
+  background-color: var(--s4-bg-color);
+  color: var(--s4-text-color);
+  font: var(--s4-font);
+}
+
+#s4pic{
+  content: var(--section4-pic)
+}
+
+#section5 {
+  background-image: var(--s5-bg-image);
+  background-color: var(--s5-bg-color);
+  color: var(--s5-text-color);
+  font: var(--s5-font);
+}
+
+#s5pic{
+  content: var(--section5-pic)
 }
 
 #section6 {
-  background-image: var(--section6-bg-image);
+  background-image: var(--s6-bg-image);
+  background-color: var(--s6-bg-color);
+  color: var(--s6-text-color);
+  font: var(--s6-font);
 }
 
-#section8 {
-  background-image: var(--section6-bg-image);
+#card {
+  background-color: var(--card-button-bg-color);
+  color: var(--card-button-text-color)
 }
 
 #button1 {
-  background-image: url("https://media4.giphy.com/media/SYrMAmJZT4YcU/giphy.gif");
+  background-color: var(--s1button-bg-color);
+  color: var(--s1button-text-color)
 }
 
 #button2 {
-  background-image: url("https://media1.giphy.com/media/9MJ65OWvrNIXnOiNEk/giphy.gif?cid=6c09b9527aaaf948f3519ceda027dc72ff62280d7f86157d&rid=giphy.gif&ct=g");
+  background-color: var(--s2button-bg-color);
+  color: var(--s2button-text-color)
 }
 
 #button3 {
@@ -130,4 +180,11 @@ body {
 
 #texting {
   color: aliceblue;
+}
+
+#footer {
+  background-image: var(--footer-bg-image);
+  background-color: var(--footer-bg-color);
+  color: var(--footer-text-color);
+  font: var(--footer-font);
 }
