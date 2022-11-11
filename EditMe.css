@@ -21,7 +21,7 @@
 
     /* Sponser Section */
     --sponsor-bg-image: ;
-    --sponsor-bg-color: aquamarine;
+    --sponsor-bg-color: rgb(40, 126, 100);
     --sponsor-text-color: black;
     --sponsor-font: var(--font1);
     --sponsor1: url("https://placekitten.com/100/100");
