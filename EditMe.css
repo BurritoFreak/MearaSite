@@ -12,7 +12,7 @@
 
     /* Section 1 */
     --s1-bg-image: url("https://www.canva.com/design/DAFRl-LolVo/gkTtYNybD5-D2BsqSMC3xg/view?utm_content=DAFRl-LolVo&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink#2");
-    --s1-bg-color: aquamarine;
+    --s1-bg-color: #F9F1DF;
     --s1text:#444444;
     --s1font: var(--font1);
     --s1button-bg-color: #D6AD8D;
