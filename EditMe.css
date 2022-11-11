@@ -11,7 +11,7 @@
 
 
     /* Section 1 */
-    --s1-bg-image: url("https://www.canva.com/design/DAFRl-LolVo/gkTtYNybD5-D2BsqSMC3xg/view?utm_content=DAFRl-LolVo&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink#2");
+    --s1-bg-image: url("https://s3.us-west-2.amazonaws.com/secure.notion-static.com/5b2ab25c-ce47-4258-b826-1cb5ea0eaf37/Copy_of_Dear_Prose_Home_Page.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20221111%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20221111T062926Z&X-Amz-Expires=86400&X-Amz-Signature=91e5a8e80385955463aa9029a0ae22147548438a4e5ed76951a80e456a11f3ec&X-Amz-SignedHeaders=host&response-content-disposition=filename%3D"Copy%2520of%2520Dear%2520Prose%2520Home%2520Page.png"&x-id=GetObject");
     --s1-bg-color: #F9F1DF;
     --s1text:#444444;
     --s1font: var(--font1);
