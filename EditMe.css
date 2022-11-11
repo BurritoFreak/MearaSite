@@ -51,7 +51,7 @@
 
 
     /* Section 4 */
-    --s4-bg-image: url("https://www.pbh2.com/wordpress/wp-content/uploads/2013/11/doge-trampoline-gif.gif");
+    --s4-bg-image: url("https://s3.us-west-2.amazonaws.com/secure.notion-static.com/ab8b6d99-bc70-46f1-ba65-b9456dd2d531/Copy_of_Dear_Prose_Home_Page_%282%29.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20221111%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20221111T063728Z&X-Amz-Expires=86400&X-Amz-Signature=7e4beb460ccf7a7aaaef0966595fe2891613c7a2f25ca754709cdcf6dd2b3b28&X-Amz-SignedHeaders=host&response-content-disposition=filename%3D"Copy%2520of%2520Dear%2520Prose%2520Home%2520Page%2520%282%29.png"&x-id=GetObject");
     --s4-bg-color:#F9F1DF;
     --s4-text-color: black;
     --s4font: var(--font1);
