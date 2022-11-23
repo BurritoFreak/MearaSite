@@ -11,7 +11,7 @@
 
 
     /* Section 1 */
-    --s1-bg-image: url("https://www.canva.com/design/DAFRl-LolVo/gkTtYNybD5-D2BsqSMC3xg/view?utm_content=DAFRl-LolVo&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink#2");
+    --s1-bg-image: url("https://media-private.canva.com/-xDYA/MAEWMe-xDYA/1/s3.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJWF6QO3UH4PAAJ6Q%2F20221122%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20221122T143732Z&X-Amz-Expires=55743&X-Amz-Signature=1f37cb045ac8592e54f0b1198aff006bf0d1afbe1a3eef6ee62b1321415938bf&X-Amz-SignedHeaders=host&response-expires=Wed%2C%2023%20Nov%202022%2006%3A06%3A35%20GMT");
     --s1-bg-color: #F9F1DF;
     --s1text:#444444;
     --s1font: var(--font1);
