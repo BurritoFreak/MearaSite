@@ -5,6 +5,18 @@
   font-family: Arial, sans-serif;
 }
 
+@font-face {
+  font-family: Yeseva One;
+  src: url("https://fonts.googleapis.com/css?family=Yeseva One");
+}
+@font-face {
+  font-family: Montserrast;
+  src: url("https://fonts.googleapis.com/css?family=Montserrat");
+}
+@font-face {
+  font-family: Cardo;
+  src: url("https://fonts.googleapis.com/css?family=Cardo");
+}
 
 body {
   font-size: 14px;
